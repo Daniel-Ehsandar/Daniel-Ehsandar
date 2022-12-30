@@ -7,7 +7,7 @@
         Telegram: Daniel_Ehsandar_dec_97 
         https://stackoverflow.com/users/10635430/daniel-ehsandar
         <a href=&quothttps://github.com/Daniel-Ehsandar>
-<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api/top-langs/?username=ghost1372&quot />
+<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Ehsandar/>
 </a>
 
 <!---

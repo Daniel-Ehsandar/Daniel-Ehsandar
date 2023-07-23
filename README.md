@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on companies in programming industry.
 - 📫 How to reach me 
-        email: danielehsandar@yahoo.com
-        Telegram: Daniel_Ehsandar_dec_97/n
-        Linkedin: Daniel Ehsandar/n
-        stackoverflow : (https://stackoverflow.com/users/10635430/daniel-ehsandar)/n
+      -  email: danielehsandar@yahoo.com
+      -  Telegram: Daniel_Ehsandar_dec_97
+      -  Linkedin: Daniel Ehsandar 
+      -  stackoverflow : (https://stackoverflow.com/users/10635430/daniel-ehsandar)
         
     
 <!---

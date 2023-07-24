@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daniel-Ehsandar
 - 👀 I’m interested in programming, especially in front-end
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Next.js / TypeScript
 - 💞️ I’m looking to collaborate on companies in programming industry.
 - 📫 How to reach me 
       -  email: danielehsandar@yahoo.com
